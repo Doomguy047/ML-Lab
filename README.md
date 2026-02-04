@@ -1,2 +1,3 @@
 # ML-Lab
-Lab 1 and Lab 2 files contain materials for all three of Lab 1, Lab 2 and Lab 3
+This repo contains all experiments completed as part of the Machine Learning Lab in third year semester 6 by Naman Jain (23FE10CSE00031).
+
